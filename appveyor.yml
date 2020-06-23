@@ -1,0 +1,8 @@
+version: 1.5.0.{build}
+image: Visual Studio 2019
+before_build:
+- cmd: >-
+    nuget restore
+build:
+  project: Tethys.Xsd.sln
+  verbosity: normal
