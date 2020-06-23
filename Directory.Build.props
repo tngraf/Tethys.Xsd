@@ -1,0 +1,15 @@
+<Project>
+  <PropertyGroup>
+    <Version>1.0</Version>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Product>Tethys.Xsd</Product>
+    <Company></Company>
+    <Copyright>Copyright © 2020 T. Graf</Copyright>
+    <Authors>T. Graf</Authors>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/tngraf/Tethys.Xsd</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/tngraf/Tethys.Xsd</RepositoryUrl>
+    <PackageTags>Tethys Xsd</PackageTags>
+  </PropertyGroup>
+</Project>
