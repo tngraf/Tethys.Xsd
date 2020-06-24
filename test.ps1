@@ -1,0 +1,5 @@
+# -------------
+# Test project
+# -------------
+
+dotnet test 
