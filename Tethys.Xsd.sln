@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileCopyrightText: 2021-2022 T. Graf
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tethys.Xsd", "Tethys.Xsd\Tethys.Xsd.csproj", "{B8A92EE7-3B6A-458A-AACA-C38A0F6CC4F9}"

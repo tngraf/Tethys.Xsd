@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileCopyrightText: 2021-2022 T. Graf
+
 version: 1.5.0.{build}
 image: Visual Studio 2019
 before_build:
