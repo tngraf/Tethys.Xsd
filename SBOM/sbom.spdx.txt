@@ -1,0 +1,165 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: Tethys.Xsd
+DocumentNamespace: http://spdx.org/spdxdocs/spdx-v2.1-96ddea53-2138-423e-8ac7-e39ba149d745
+Creator: Person: Anonymous ()
+Creator: Organization: Anonymous ()
+Creator: Tool: reuse-1.1.2
+Created: 2023-03-05T15:53:02Z
+CreatorComment: <text>This document was created automatically using available reuse information consistent with REUSE.</text>
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-771ff95048b5c7a0ccc47be56a6bc5bc
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-bbe09fded36aa421ee01aa9a0d270eb3
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-2d699a6b9a6c69afe4d0a14d92234e02
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-0c5db122074757a1087e534a3948a9f4
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-6422809e1b4488a068d92c20ef111143
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-7c1f9d3e93f93339c063e520cc982ac8
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-702c1778bbf5f81b92238b1811323a46
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-c25649890340aa3bb03125e088a660d6
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-545b17b214a867167df6a1acbfcaef71
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-4c4a212de5f4060137ef8e029045ab2f
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-168cf4d6660a963c75a91f1557c6761e
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-ab274d9f12511de07fe550d7f2f3d3e6
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-2e543e81329155f93749889ebf972f7f
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-2f98c7d5a039717053a2aff59d4bf743
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-dfd434f95cca2f4af998e883eb8535e8
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-38290c70e9f7747d9c9248e88b29a05c
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-5fc319e285184c7b2aad9f50ea225c8b
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-7212e923a6465fb2517049f567a3d554
+Relationship: SPDXRef-DOCUMENT describes SPDXRef-fd42944d11ab305c20c721be9bce5a0b
+
+FileName: ./.gitignore
+SPDXID: SPDXRef-771ff95048b5c7a0ccc47be56a6bc5bc
+FileChecksum: SHA1: 998da16d1a0bbc59acc4e5a740b0a405008cdfac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>SPDX-FileCopyrightText: 2023 T. Graf</text>
+
+FileName: ./ChangeLog.md
+SPDXID: SPDXRef-bbe09fded36aa421ee01aa9a0d270eb3
+FileChecksum: SHA1: aad819316ca4e1aec9975faf1a78d3984899c401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>SPDX-FileCopyrightText: (c) 2022-2023 T. Graf</text>
+
+FileName: ./Directory.Build.props
+SPDXID: SPDXRef-2d699a6b9a6c69afe4d0a14d92234e02
+FileChecksum: SHA1: 589bb838babf30d8e0aae461625b638b7ca5b43a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright ® 2020 T. Graf</Copyright>
+SPDX-FileCopyrightText: (c) 2022-2023 T. Graf</text>
+
+FileName: ./README.md
+SPDXID: SPDXRef-0c5db122074757a1087e534a3948a9f4
+FileChecksum: SHA1: 9fae2d17a23a907a14a36873e62f937544d63c60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2014-2023 T. Graf.
+SPDX-FileCopyrightText: (c) 2022-2023 T. Graf</text>
+
+FileName: ./Tethys.Xsd.Test\StringLogger.cs
+SPDXID: SPDXRef-6422809e1b4488a068d92c20ef111143
+FileChecksum: SHA1: ed171fb78cae73b44750244529ecc10c661940bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (C) 2020-2023 T. Graf</text>
+
+FileName: ./Tethys.Xsd.Test\StringLoggerFactoryAdapter.cs
+SPDXID: SPDXRef-7c1f9d3e93f93339c063e520cc982ac8
+FileChecksum: SHA1: 5c783171525409203092edc84ef96d2d40e86eb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (C) 2020-2023 T. Graf</text>
+
+FileName: ./Tethys.Xsd.Test\Tethys.Xsd.Test.csproj
+SPDXID: SPDXRef-702c1778bbf5f81b92238b1811323a46
+FileChecksum: SHA1: a1e9e2df56e97c5cfebfbd4c6ab20f1464c70d30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>SPDX-FileCopyrightText: (c) 2022-2023 T. Graf</text>
+
+FileName: ./Tethys.Xsd.Test\XsdSupportTest.cs
+SPDXID: SPDXRef-c25649890340aa3bb03125e088a660d6
+FileChecksum: SHA1: e6094a5915c7c8f3cd6c2e96a1c54db51a9304c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (C) 2020-2023 T. Graf</text>
+
+FileName: ./Tethys.Xsd.ruleset
+SPDXID: SPDXRef-545b17b214a867167df6a1acbfcaef71
+FileChecksum: SHA1: 340a00522761872500b5a98e07cdfbf38716db61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>SPDX-FileCopyrightText: (c) 2022-2023 T. Graf</text>
+
+FileName: ./Tethys.Xsd.sln
+SPDXID: SPDXRef-4c4a212de5f4060137ef8e029045ab2f
+FileChecksum: SHA1: 65b7576df05f4880c80368e2836c26fe86e40d20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>SPDX-FileCopyrightText: 2021-2022 T. Graf</text>
+
+FileName: ./Tethys.Xsd\Tethys.Xsd.csproj
+SPDXID: SPDXRef-168cf4d6660a963c75a91f1557c6761e
+FileChecksum: SHA1: 64a234516166b9a75efd77d67ad30051a032e660
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright ® 2014-2020 T. Graf</Copyright>
+SPDX-FileCopyrightText: (c) 2022-2023 T. Graf</text>
+
+FileName: ./Tethys.Xsd\Tethys.Xsd.snk
+SPDXID: SPDXRef-ab274d9f12511de07fe550d7f2f3d3e6
+FileChecksum: SHA1: dd5628b6659289e71ccbe02a8978bc7566e69765
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>SPDX-FileCopyrightText: 2021-2022 T. Graf</text>
+
+FileName: ./Tethys.Xsd\XsdSupport.cs
+SPDXID: SPDXRef-2e543e81329155f93749889ebf972f7f
+FileChecksum: SHA1: 3684078aad9df91955bf687ae170a91c0cc0789b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (C) 2014-2023 T. Graf</text>
+
+FileName: ./Tethys.Xsd\tethys_icon.png
+SPDXID: SPDXRef-2f98c7d5a039717053a2aff59d4bf743
+FileChecksum: SHA1: 4ff4e8b09a4b8683491f5a4ab565f0bbac46c9e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>SPDX-FileCopyrightText: 2021-2022 T. Graf</text>
+
+FileName: ./appveyor.yml
+SPDXID: SPDXRef-dfd434f95cca2f4af998e883eb8535e8
+FileChecksum: SHA1: fd39590f99f47584f4a530f97e4507562d4c08ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>SPDX-FileCopyrightText: 2021-2022 T. Graf</text>
+
+FileName: ./build.ps1
+SPDXID: SPDXRef-38290c70e9f7747d9c9248e88b29a05c
+FileChecksum: SHA1: da0213128fdac2b538918b46499987c52138df9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>SPDX-FileCopyrightText: 2021-2022 T. Graf</text>
+
+FileName: ./clean.ps1
+SPDXID: SPDXRef-5fc319e285184c7b2aad9f50ea225c8b
+FileChecksum: SHA1: fe316ad2847b71cc763e6bb4b02a6821eeafc047
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>SPDX-FileCopyrightText: 2021-2022 T. Graf</text>
+
+FileName: ./test.ps1
+SPDXID: SPDXRef-7212e923a6465fb2517049f567a3d554
+FileChecksum: SHA1: 667d15595e2ec11ba3e8b902afa733966a716499
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>SPDX-FileCopyrightText: 2021-2022 T. Graf</text>
+
+FileName: ./tethys_icon.png
+SPDXID: SPDXRef-fd42944d11ab305c20c721be9bce5a0b
+FileChecksum: SHA1: 4ff4e8b09a4b8683491f5a4ab565f0bbac46c9e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>SPDX-FileCopyrightText: 2021-2022 T. Graf</text>
